@@ -17,12 +17,8 @@ This notebook utilizes the mmfashion model in order to make predictions on trend
 4. [trends_from_attributes.ipynb](https://colab.research.google.com/drive/1tPWaVH2dGYInp04NTxrnePebIKWmUxpi?usp=sharing)  
 Another end product of our project: a Predictor for each attribute. This relies on an XGBoost based regressor and tells us future value of an attribute based on previous time steps’s values.
 
---------------------------------------------
-Team Name: IITKianDoge  
-Team Members: 
-1. [Shiven Tripathi](https://github.com/ShivenTripathi)
-2. [Rishabh Dugaye](https://github.com/rishabhd786)
-3. [Atharv Singh Patlan](https://github.com/AthaSSiN) 
+
+
 
 IIT Kanpur
 
