@@ -20,7 +20,6 @@ Another end product of our project: a Predictor for each attribute. This relies 
 
 
 
-IIT Kanpur
 
 ## Daywise Trending Products
 
