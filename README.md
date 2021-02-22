@@ -18,9 +18,10 @@ This notebook utilizes the mmfashion model in order to make predictions on trend
 Another end product of our project: a Predictor for each attribute. This relies on an XGBoost based regressor and tells us future value of an attribute based on previous time steps’s values.
 
 
+Research paper links: https://www.researchgate.net/profile/Nithyaprakash_Venkatasamy3/publication/282571020_Fashion_trends_and_their_impact_on_the_society/links/5612398d08ae4833751bd97c/Fashion-trends-and-their-impact-on-the-society.pdf
 
+Things yet to work and implement: Add a bot and deploy it using fast API.
 
-IIT Kanpur
 
 ## Daywise Trending Products
 
